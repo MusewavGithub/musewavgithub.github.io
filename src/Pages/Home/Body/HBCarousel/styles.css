@@ -1,0 +1,22 @@
+.web-carousel{
+    height: 100vh;
+}
+
+.carousel-container{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 70%;
+    height: 50%;
+}
+
+.carousel-logo-container{
+    top: 41%;
+    transform: translateY(-50%);
+    mix-blend-mode: difference;
+}
+
+.carousel-logo-img{
+    mix-blend-mode: difference;
+}

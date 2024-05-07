@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/musewavgithub/static/css/main.10f9a780.css",
+    "main.js": "/musewavgithub/static/js/main.c57900ea.js",
+    "static/js/453.0ab35ef1.chunk.js": "/musewavgithub/static/js/453.0ab35ef1.chunk.js",
+    "index.html": "/musewavgithub/index.html",
+    "main.10f9a780.css.map": "/musewavgithub/static/css/main.10f9a780.css.map",
+    "main.c57900ea.js.map": "/musewavgithub/static/js/main.c57900ea.js.map",
+    "453.0ab35ef1.chunk.js.map": "/musewavgithub/static/js/453.0ab35ef1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10f9a780.css",
+    "static/js/main.c57900ea.js"
+  ]
+}

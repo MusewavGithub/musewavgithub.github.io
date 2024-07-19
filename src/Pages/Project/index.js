@@ -1,10 +1,13 @@
 import React from "react";
+import Header from "./Header";
 import './styles.css';
+import Body from "./Body";
 
 const Project = () => {
     return (
         <div className="web-content">
-            New PAGE
+            <Header />
+            <Body />
         </div>
     )
 }

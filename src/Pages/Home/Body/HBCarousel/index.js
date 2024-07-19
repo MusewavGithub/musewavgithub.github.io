@@ -7,15 +7,23 @@ const HBCarousel = () =>{
     const slides = [
         {
           key: uuid(),
-          content: <img src="/img/carousel/001.png" alt="1" />
+          content: <img src="/img/carousel/001.jpg" alt="1" />
         },
         {
           key: uuid(),
-          content: <img src="/img/carousel/001.png" alt="2" />
+          content: <img src="/img/carousel/002.jpg" alt="2" />
         },
         {
           key: uuid(),
-          content: <img src="/img/carousel/001.png" alt="3" />
+          content: <img src="/img/carousel/003.jpg" alt="3" />
+        },
+        {
+          key: uuid(),
+          content: <img src="/img/carousel/004.jpg" alt="4" />
+        },
+        {
+          key: uuid(),
+          content: <img src="/img/carousel/005.jpg" alt="5" />
         }
       ];
 

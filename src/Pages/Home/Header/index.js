@@ -7,26 +7,23 @@ const Header = () => {
         <div className="web-header">
             <div className="web-header-logo">
                 <img className="web-header-logo-img" src="img/hblogo.svg" />
-                <p className="web-header-logo-text">Network.</p>
+                <Link className="web-header-logo-text" to="/">Network.</Link>
             </div>
             <div className="web-header-menu">
                 <div className="web-header-menu-item">
                     <Link className="web-header-menu-link" to="/project">Project.</Link>
                 </div>
                 <div className="web-header-menu-item">
-                    <Link className="web-header-menu-link" to="/project">Article.</Link>
+                    <Link className="web-header-menu-link" to="/service">Service.</Link>
                 </div>
                 <div className="web-header-menu-item">
-                    <Link className="web-header-menu-link" to="/project">Service.</Link>
+                    <Link className="web-header-menu-link" to="/shop">Shop.</Link>
                 </div>
                 <div className="web-header-menu-item">
-                    <Link className="web-header-menu-link" to="/project">Shop.</Link>
+                    <Link className="web-header-menu-link" to="/support">Support.</Link>
                 </div>
                 <div className="web-header-menu-item">
-                    <Link className="web-header-menu-link" to="/project">Support.</Link>
-                </div>
-                <div className="web-header-menu-item">
-                    <Link className="web-header-menu-link" to="/project">About.</Link>
+                    <Link className="web-header-menu-link" to="/about">About.</Link>
                 </div>
             </div>
         </div>
